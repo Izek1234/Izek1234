@@ -17,5 +17,5 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Izek1234&theme=transparent&border_color=555&show_icons=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izek1234&theme=transparent&layout=compact&hide=html,css,jupyter%20notebook)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Izek1234&theme=radical&row=1&column=6)
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Izek1234&theme=react-dark&hide_border=true)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Un5b6p)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archipelagpro@gmail.com)
