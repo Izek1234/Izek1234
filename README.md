@@ -7,7 +7,7 @@
 - ⚙️ Exploring **DevOps** and CI/CD
 - 📱 Fullstack with **Python**, **Flutter**, and modern web
 
-![Banner](assets/my-banner.gif)
+![Banner](assets/banner.svg)
 
 ---
 
