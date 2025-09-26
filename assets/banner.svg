@@ -1,0 +1,11 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg" style="background:#0d1117">
+  <text x="40" y="60" fill="#64FFDA" font-family="Fira Code, monospace" font-size="20">
+    🧠 ML | 🦀 Rust | ⚙️ DevOps | 📱 Flutter
+  </text>
+  <text x="40" y="110" fill="#8B949E" font-family="Fira Code, monospace" font-size="16">
+    $ whoami → Izek1234 | School coder building the future
+  </text>
+  <text x="40" y="150" fill="#58A6FF" font-family="Fira Code, monospace" font-size="14">
+    └─▶ github.com/Izek1234
+  </text>
+</svg>
