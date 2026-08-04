@@ -23,9 +23,4 @@
 
 ---
 
-<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Izek1234&theme=transparent&border_color=555&show_icons=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izek1234&theme=transparent&layout=compact&hide=html,css,jupyter%20notebook)
-
-</div>
