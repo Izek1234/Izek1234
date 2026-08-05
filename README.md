@@ -25,7 +25,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -35,17 +34,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izek1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izek1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Izek1234&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA)
 
 
 ---
