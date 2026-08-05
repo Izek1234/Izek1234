@@ -1,26 +1,88 @@
 <div align="center">
 
-![Hi](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Hi+there%2C+I%27m+Izek1234!;School+ML+Engineer;Rust+%26+Python+Dev;Flutter+Explorer)
+![Hi](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Izek1234!;School+ML+Engineer;Rust+%26+Python+Dev;Drone+Enthusiast;NTO+AI+Finalist)
 
 </div>
 
-- 🧠 School student diving into **Machine Learning**
-- 🦀 Building ML tools in **Rust**
-- ⚙️ Exploring **DevOps** and CI/CD
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Izek1234&color=64ffda&style=flat-square&label=Profile+Views)](https://github.com/Izek1234)
+
+</div>
+
+## 🧑‍💻 About Me
+
+- 🧠 School student diving deep into **Machine Learning**
+- 🦀 Building blazing-fast ML tools in **Rust** — check out my [robust_scaler](https://github.com/Izek1234/robust_scaler), a scikit-learn-compatible RobustScaler for Rust
+- 🚁 Working with **autonomous drones** (COEX Clover platform) at Archipelag 2026
+- 🏆 **NTO AI** participant — ML pipelines, notebooks, experiments
+- ⚙️ Exploring **DevOps**, Docker and CI/CD
 - 📱 Fullstack with **Python** & **Flutter**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![robust_scaler](https://github-readme-stats.vercel.app/api/pin/?username=Izek1234&repo=robust_scaler&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA)](https://github.com/Izek1234/robust_scaler)
+[![nornikel_map](https://github-readme-stats.vercel.app/api/pin/?username=Izek1234&repo=nornikel_map&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA)](https://github.com/Izek1234/nornikel_map)
+[![TatarBy](https://github-readme-stats.vercel.app/api/pin/?username=Izek1234&repo=TatarBy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA)](https://github.com/Izek1234/TatarBy)
+[![nto_ai_team](https://github-readme-stats.vercel.app/api/pin/?username=Izek1234&repo=nto_ai_team&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA)](https://github.com/Izek1234/nto_ai_team)
+
+</div>
+
+| Project | Description | Stack |
+|---|---|---|
+| 🦀 [**robust_scaler**](https://github.com/Izek1234/robust_scaler) | RobustScaler for Rust, compatible with scikit-learn | `Rust` `MIT License` |
+| 🗺️ [**nornikel_map**](https://github.com/Izek1234/nornikel_map) | Fullstack interactive map platform | `Python` `TypeScript` `Docker` |
+| 🌍 [**TatarBy**](https://github.com/Izek1234/TatarBy) | Large-scale multi-language system | `Rust` `C++` `Vue` |
+| 🏆 [**nto_ai_team**](https://github.com/Izek1234/nto_ai_team) | NTO AI competition solution | `Jupyter` `Python` |
+| 🚁 [**clover2**](https://github.com/Izek1234/clover2) | Autonomous drone development platform | `COEX` `ROS` |
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izek1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izek1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Izek1234&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA)
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Izek1234&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15)
+
+</div>
 
 ---
 
 <div align="center">
 
-🔗 [github.com/Izek1234](https://github.com/Izek1234)  
+🔗 [github.com/Izek1234](https://github.com/Izek1234)
 🎯 `whoami` → School coder building the future
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Un5b6p)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archipelagpro@gmail.com)
 
 </div>
-
----
-
-
