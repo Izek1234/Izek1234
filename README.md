@@ -36,24 +36,6 @@
 
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![robust_scaler](https://github-readme-stats.vercel.app/api/pin/?username=Izek1234&repo=robust_scaler&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA)](https://github.com/Izek1234/robust_scaler)
-[![nornikel_map](https://github-readme-stats.vercel.app/api/pin/?username=Izek1234&repo=nornikel_map&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA)](https://github.com/Izek1234/nornikel_map)
-[![TatarBy](https://github-readme-stats.vercel.app/api/pin/?username=Izek1234&repo=TatarBy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA)](https://github.com/Izek1234/TatarBy)
-[![nto_ai_team](https://github-readme-stats.vercel.app/api/pin/?username=Izek1234&repo=nto_ai_team&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA)](https://github.com/Izek1234/nto_ai_team)
-
-</div>
-
-| Project | Description | Stack |
-|---|---|---|
-| 🦀 [**robust_scaler**](https://github.com/Izek1234/robust_scaler) | RobustScaler for Rust, compatible with scikit-learn | `Rust` `MIT License` |
-| 🗺️ [**nornikel_map**](https://github.com/Izek1234/nornikel_map) | Fullstack interactive map platform | `Python` `TypeScript` `Docker` |
-| 🌍 [**TatarBy**](https://github.com/Izek1234/TatarBy) | Large-scale multi-language system | `Rust` `C++` `Vue` |
-| 🏆 [**nto_ai_team**](https://github.com/Izek1234/nto_ai_team) | NTO AI competition solution | `Jupyter` `Python` |
-| 🚁 [**clover2**](https://github.com/Izek1234/clover2) | Autonomous drone development platform | `COEX` `ROS` |
 
 ## 📊 GitHub Stats
 
@@ -65,15 +47,6 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Izek1234&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA)
 
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Izek1234&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15)
-
-</div>
 
 ---
 
@@ -83,6 +56,6 @@
 🎯 `whoami` → School coder building the future
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Un5b6p)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archipelagpro@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workprogrammingmlback@gmail.com)
 
 </div>
