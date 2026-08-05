@@ -14,8 +14,6 @@
 
 - 🧠 School student diving deep into **Machine Learning**
 - 🦀 Building blazing-fast ML tools in **Rust** — check out my [robust_scaler](https://github.com/Izek1234/robust_scaler), a scikit-learn-compatible RobustScaler for Rust
-- 🚁 Working with **autonomous drones** (COEX Clover platform) at Archipelag 2026
-- 🏆 **NTO AI** participant — ML pipelines, notebooks, experiments
 - ⚙️ Exploring **DevOps**, Docker and CI/CD
 - 📱 Fullstack with **Python** & **Flutter**
 
