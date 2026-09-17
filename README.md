@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hi](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Izek1234!;School+ML+Engineer;Rust+%26+Python+Dev;Drone+Enthusiast;NTO+AI+Finalist)
+![Hi](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Izek1234!;Student+ML+Engineer;Rust+%26+Python+Dev;Drone+Enthusiast;NTO+AI+Finalist)
 
 </div>
 
